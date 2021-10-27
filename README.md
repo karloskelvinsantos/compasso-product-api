@@ -27,6 +27,10 @@ For execute the tests, run command below:
 ./mvnw test
 ```
 
+## Test Api Manually, use openAPI:
+
+http://localhost:9999/swagger-ui.html
+
 ## Copyright
 
 Released under the Apache License 2.0. See the [LICENSE](https://github.com/codecentric/springboot-sample-app/blob/master/LICENSE) file.
